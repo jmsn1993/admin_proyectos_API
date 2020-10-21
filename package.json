@@ -1,14 +1,14 @@
 {
   "name": "merntaskservidor",
   "version": "1.0.0",
-  "description": "MERN API para MERN TASKS",
+  "description": "MERN API para administración de proyectos",
   "main": "index.js",
   "scripts": {
     "start": "node .",
     "dev": "nodemon ."
   },
-  "author": "Juan Pablo De la torre",
-  "license": "ISC",
+  "author": "Juan Serrato (SENA)",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.0"
   },
